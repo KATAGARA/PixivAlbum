@@ -1,19 +1,16 @@
 <h1 align="center">
-  Pixiv Collect
+  Pixiv Album
   <br>
   <br>
   <a href="/LICENSE"><img src="https://img.shields.io/badge/license-GPL%203.0-brightgreen.svg" alt="GPL 3.0 LICENSE"></a>
-  <a href="/releases"><img src="https://img.shields.io/badge/release-v0.0.1-blue.svg" alt="Pixiv Collect Releases"></a>
+  <a href="https://github.com/KAKETAKAGE/PixivAlbum/releases"><img src="https://img.shields.io/badge/release-v0.0.1-blue.svg" alt="Pixiv Collect Releases"></a>
 </h1>
 
 - [注意](#注意)
 - [介绍](#介绍)
-    - [Pixiv收集](#Pixiv收集)
-    - [图片移动](#图片移动)
-    - [分析图片](#分析图片)
-    - [数据库信息](#数据库信息)
 - [后续计划](#后续计划)
 - [您可能会遇到包括但不限于以下问题](#您可能会遇到包括但不限于以下问题)
+  - [已知BUG](#已知BUG)
 - [支持和捐助](#支持和捐助)
   <br><br>
 
