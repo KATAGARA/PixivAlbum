@@ -47,7 +47,7 @@ _本项目不提供任何翻墙工具和方法_
 
 # 后续计划
 ~~（明年计划）~~ <br>
-如有功能请求或现有功能建议，可以在 [Issues](/issues) 中提出，新建 issues 时在在右边选择相应 Label。
+如有功能请求或现有功能建议，可以在 [Issues](https://github.com/KAKETAKAGE/PixivAlbum/issues) 中提出，新建 issues 时在在右边选择相应 Label。
 - [ ] 异常
 - [ ] 日志
 - [ ] 项目结构
