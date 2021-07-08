@@ -23,7 +23,7 @@
 4. ![开发者工具](https://raw.githubusercontent.com/KAKETAKAGE/PixivCollect/master/.github/imgs/cookie_2.png)
 
 
-5. 把 cookie 中的内容全部复制
+5. 把 cookie 中的内容全部复制，或复制 `PHPSESSID=XXX`
 
 
 6. 以下两种方法都可以
