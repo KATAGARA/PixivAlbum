@@ -7,13 +7,13 @@ const schema = require('./schema')
 const rankSchema = schema.rankSchema
 const illustSchema = schema.illustSchema
 const authorSchema = schema.authorSchema
-// const tagSchema = schema.tagSchema
-// const imageSchema = schema.imageSchema
+const tagSchema = schema.tagSchema
+const imageSchema = schema.imageSchema
 const gifMetaSchema = schema.gifMetaSchema
 const likeSchema = schema.likeSchema
 const illust = mongoose.model('illust', illustSchema, 'illust')
 const author = mongoose.model('author', authorSchema, 'author')
-// const image = mongoose.model('image', imageSchema, 'image')
+const image = mongoose.model('image', imageSchema, 'image')
 const gifMeta = mongoose.model('gif_meta', gifMetaSchema, 'gif_meta')
 const like = mongoose.model('like', likeSchema, 'like')
 

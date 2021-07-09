@@ -21,6 +21,8 @@
 # 注意
 _本项目不提供任何翻墙工具和方法_
 
+**_之前的有重大BUG，已重新上传，请重新安装_**
+
 **本项目目前最新版本为测试版~~的测试版~~**<br>
 **[PixivCollect](https://github.com/KAKETAKAGE/PixivCollect) 与 [PixivAlbum](https://github.com/KAKETAKAGE/PixivAlbum) 项目开发周期已有快两个月了，因个人原因非重大BUG下次更新应该在明年初了**<br>
 **因中途被搁置了半年多（懒），！！！请忽然源代码中的注释 ！！！**
