@@ -22,6 +22,9 @@
 _本项目不提供任何翻墙工具和方法_
 
 **_之前的有重大BUG，已重新上传，请重新安装_**
+直接删除文件，会导致无法重新安装，应该是我软件打包的原因，暂时没时间修正了 <br>
+请通过软件目录下的 `Uninstall PixivAlbum` 卸载 <br>
+如果你已经直接删除文件，请在通过控制面板的程序和功能中卸载，或通过其他软件卸载，或使用 [Releases](https://github.com/KAKETAKAGE/PixivAlbum/releases) 中的卸载工具卸载 <br>
 
 **本项目目前最新版本为测试版~~的测试版~~**<br>
 **[PixivCollect](https://github.com/KAKETAKAGE/PixivCollect) 与 [PixivAlbum](https://github.com/KAKETAKAGE/PixivAlbum) 项目开发周期已有快两个月了，因个人原因非重大BUG下次更新应该在明年初了**<br>
