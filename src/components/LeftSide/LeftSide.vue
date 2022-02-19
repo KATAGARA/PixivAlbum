@@ -22,13 +22,17 @@
                 <el-menu-item index="like-illust" @click="goLike('illust')">收藏</el-menu-item>
                 <el-menu-item index="like-author" @click="goLike('author')">关注</el-menu-item>
             </el-submenu>
-            <el-menu-item index="pixiv-collect" @click="goCollect">
+            <el-menu-item index="pixiv-collect" @click="goPage('collect')">
                 <i class="el-icon-download"></i>
                 <span slot="title">Pixiv Collect</span>
             </el-menu-item>
-            <el-menu-item index="setting" @click="goSetting">
+            <el-menu-item index="setting" @click="goPage('setting')">
                 <i class="el-icon-s-tools"></i>
                 <span slot="title">Setting</span>
+            </el-menu-item>
+            <el-menu-item index="user" @click="goPage('user')">
+                <i class="el-icon-user-solid"></i>
+                <span slot="title">User</span>
             </el-menu-item>
         </el-menu>
     </div>
@@ -73,18 +77,12 @@
                 //     this.homeStyle = { color: '#409EFF' }
                 // }
             },
-            goCollect () {
-                if (this.$route.path !== '/collect') {
-                    this.$router.push({name: 'collect'})
+            goPage (pageName){
+                if (this.$route.path !== '/' + pageName) {
+                    this.$router.push({name: pageName})
                     this.homeStyle = {}
                 }
             },
-            goSetting () {
-                if (this.$route.path !== '/setting') {
-                    this.$router.push({name: 'setting'})
-                    this.homeStyle = {}
-                }
-            }
         }
     }
 </script>

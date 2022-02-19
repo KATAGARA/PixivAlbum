@@ -7,6 +7,7 @@ import PixivIllust from "components/Pixiv/PixivIllust/PixivIllust";
 import PixivLike from "components/Pixiv/PixivLike/PixivLike";
 import PixivCollect from "@/views/PixivCollect";
 import Setting from "@/views/Setting";
+import User from "@/views/User";
 
 Vue.use(VueRouter)
 
@@ -38,6 +39,11 @@ const routes = [
     path: '/setting',
     name: 'setting',
     component: Setting
+  },
+  {
+    path: '/user',
+    name: 'user',
+    component: User
   },
 ]
 
