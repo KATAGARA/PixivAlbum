@@ -16,14 +16,6 @@
   <br><br>
 
 # 注意
-**_之前的有重大BUG，已重新上传，请重新安装_** <br>
-直接删除文件，会导致无法重新安装，应该是我软件打包的原因，暂时没时间修正了 <br>
-请通过软件目录下的 `Uninstall PixivAlbum` 卸载 <br>
-如果你已经直接删除文件，请在通过控制面板的程序和功能中卸载，或通过其他软件卸载，或使用 [Releases](https://github.com/KAKETAKAGE/PixivAlbum/releases) 中的卸载工具卸载 <br>
-
-**本项目目前最新版本为测试版~~的测试版~~**<br>
-**[PixivCollect](https://github.com/KAKETAKAGE/PixivCollect) 与 [PixivAlbum](https://github.com/KAKETAKAGE/PixivAlbum) 项目开发周期已有快两个月了，因个人原因非重大BUG下次更新应该在明年初了**<br>
-**因中途被搁置了半年多（懒），！！！请忽然源代码中的注释 ！！！**
 
 软件在 [Releases](https://github.com/KAKETAKAGE/PixivAlbum/releases) 中下载 <br>
 本项目图片收集功能由 [PixivCollect](https://github.com/KAKETAKAGE/PixivCollect) 项目提供支持。请把打包后的文件放在项目根目录下的collect文件夹中<br>
